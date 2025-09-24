@@ -1,0 +1,4 @@
+now_ignored.txt
+*.png
+*.output
+outputs/
